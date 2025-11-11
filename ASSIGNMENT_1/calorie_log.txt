@@ -1,0 +1,12 @@
+Daily Calorie Tracker Log
+Date: 11-11-2025 23:52:56
+--------------------------------
+breakfast		300.0
+lunch		400.0
+snacks		400.0
+dinner		500.0
+--------------------------------
+Total:		1600.0
+Average:	400.00
+
+✅ Great! You are within your daily calorie limit.
