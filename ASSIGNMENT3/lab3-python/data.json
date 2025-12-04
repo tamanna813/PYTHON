@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Lies of P",
+        "author": "P",
+        "isbn": "9.8",
+        "status": "available"
+    },
+    {
+        "title": "atomic habits",
+        "author": "james clear",
+        "isbn": "12345",
+        "status": "available"
+    }
+]
